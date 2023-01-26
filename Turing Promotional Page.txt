@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>How To Grow Potatoes</title>
+<center>
+<big>
+<font face="verdana" size ="10" color="#0F638A">
+<u>
+<b>
+The Greatest Potato Growing Tutorial
+<br>
+</u>
+</b>
+<img src="Image1.jpg" width="1000" alt="Turing Icon">
+<b>
+</b>
+</big>
+</font>
+</head>
+<body>
+<br>
+<body bgcolor="#FFD3D3">
+<br>
+<font size="5" face="georgia" color="#E02F57">
+This is another tutorial created by the renowned Alan Bu. This will teach you everything you need to know about, in order to grow potatoes. 
+<br>
+<hr size="2" color="blue">
+<font face="verdana" size ="10" color="#0F638A">
+Screenshots:
+<br>
+<font size="5" face="georgia" color="#E02F57">
+Screenshots of the Main Menu, Lesson, Animation and Quiz.
+<br> 
+<img src="IMG2.jpg" width="400" length="300" alt="Main Menu">
+<img src="IMG3.jpg" width="400" length="300" alt="Page 2 of Lesson">
+<img src="IMG4.jpg" width="400" length="300" alt="Animation">
+<img src="IMG5.jpg" width="400" length="300" alt="Quiz Results">
+<br>
+<hr size="2" color="blue">
+<font face="verdana" size ="10" color="#0F638A">
+Description:
+<br>
+<font size="5" face="georgia" color="#E02F57">
+With easy and free access on the Turing Appstore, this app provides an engaging tutorial on how to grow potatoes. The lesson includes many useful tips that will enhance your potato growing experience. Additionally, the app includes an animation that demonstrates an example of growing potatoes. Lastly, the app includes a quiz that will test your knowledge on growing potatoes, based on the lesson.
+<br>
+<hr size="2" color="blue">
+<font face="verdana" size ="10" color="#0F638A">
+Reviews:
+<br> 
+<font size="5" face="georgia" color="#E02F57">
+<img src="IMG6.jpg" width="400" length="300" alt="5 Stars">
+<br>
+"This tutorial inspired me to grow potatoes!" 5/5 Stars - Bo Lin Chen
+<br>
+<br>
+<img src="IMG6.jpg" width="400" length="300" alt="5 Stars">
+<br>
+"Incredible! I actually learned how to grow potatoes with the lesson and quiz!" 5/5 Stars - Jarrod Lee
+<br>
+<br>
+<img src="IMG6.jpg" width="400" length="300" alt="5 Stars">
+<br>
+"This is a masterpiece! Alan Bu never lets me down!" 5/5 Stars - Kelvin Wu
+<br>
+<br>
+<hr size="2" color="blue">
+AVAILABLE NOW FOR FREE ON THE
+<a href="https://rao.bethuneci.com/"> TURING APPSTORE </a> 
+<br>
+<img src="IMG1.jpg" width="300" alt="Turing App Store">
+<br>
+
+</center>
+</html>
